@@ -1,0 +1,11 @@
+C:\Users\Gamer\Desktop\C# Codes\2018\January\17-01-2018\Make-staircase-with-sharp-symbol\Make-staircase-with-sharp-symbol\bin\Debug\netcoreapp2.0\Make-staircase-with-sharp-symbol.deps.json
+C:\Users\Gamer\Desktop\C# Codes\2018\January\17-01-2018\Make-staircase-with-sharp-symbol\Make-staircase-with-sharp-symbol\bin\Debug\netcoreapp2.0\Make-staircase-with-sharp-symbol.runtimeconfig.json
+C:\Users\Gamer\Desktop\C# Codes\2018\January\17-01-2018\Make-staircase-with-sharp-symbol\Make-staircase-with-sharp-symbol\bin\Debug\netcoreapp2.0\Make-staircase-with-sharp-symbol.runtimeconfig.dev.json
+C:\Users\Gamer\Desktop\C# Codes\2018\January\17-01-2018\Make-staircase-with-sharp-symbol\Make-staircase-with-sharp-symbol\bin\Debug\netcoreapp2.0\Make-staircase-with-sharp-symbol.dll
+C:\Users\Gamer\Desktop\C# Codes\2018\January\17-01-2018\Make-staircase-with-sharp-symbol\Make-staircase-with-sharp-symbol\bin\Debug\netcoreapp2.0\Make-staircase-with-sharp-symbol.pdb
+C:\Users\Gamer\Desktop\C# Codes\2018\January\17-01-2018\Make-staircase-with-sharp-symbol\Make-staircase-with-sharp-symbol\obj\Debug\netcoreapp2.0\Make-staircase-with-sharp-symbol.csprojResolveAssemblyReference.cache
+C:\Users\Gamer\Desktop\C# Codes\2018\January\17-01-2018\Make-staircase-with-sharp-symbol\Make-staircase-with-sharp-symbol\obj\Debug\netcoreapp2.0\Make-staircase-with-sharp-symbol.csproj.CoreCompileInputs.cache
+C:\Users\Gamer\Desktop\C# Codes\2018\January\17-01-2018\Make-staircase-with-sharp-symbol\Make-staircase-with-sharp-symbol\obj\Debug\netcoreapp2.0\Make-staircase-with-sharp-symbol.AssemblyInfoInputs.cache
+C:\Users\Gamer\Desktop\C# Codes\2018\January\17-01-2018\Make-staircase-with-sharp-symbol\Make-staircase-with-sharp-symbol\obj\Debug\netcoreapp2.0\Make-staircase-with-sharp-symbol.AssemblyInfo.cs
+C:\Users\Gamer\Desktop\C# Codes\2018\January\17-01-2018\Make-staircase-with-sharp-symbol\Make-staircase-with-sharp-symbol\obj\Debug\netcoreapp2.0\Make-staircase-with-sharp-symbol.dll
+C:\Users\Gamer\Desktop\C# Codes\2018\January\17-01-2018\Make-staircase-with-sharp-symbol\Make-staircase-with-sharp-symbol\obj\Debug\netcoreapp2.0\Make-staircase-with-sharp-symbol.pdb

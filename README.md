@@ -1,6 +1,8 @@
-# 17-01-2018_Make-staircase-with-sharp-symbol
+**Staircase**
 
-  Enter a int value to see result
+Problem: https://www.hackerrank.com/challenges/staircase/problem
+
+Enter a int value to see result
   
 #Example 1:
 
